@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Intro';
+  src: url('./fonts/Intro.otf') format('opentype');
+}
+
+body {
+  font-family: 'Intro', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #212121;
+  color: #ffffff;
+}
