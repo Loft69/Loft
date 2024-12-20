@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Loft/static/css/main.bdf415e8.css",
+    "main.js": "/Loft/static/js/main.d0ecf210.js",
+    "static/js/453.da9e15af.chunk.js": "/Loft/static/js/453.da9e15af.chunk.js",
+    "static/media/Intro.otf": "/Loft/static/media/Intro.48c9dd6d4d95149ea0fd.otf",
+    "index.html": "/Loft/index.html",
+    "main.bdf415e8.css.map": "/Loft/static/css/main.bdf415e8.css.map",
+    "main.d0ecf210.js.map": "/Loft/static/js/main.d0ecf210.js.map",
+    "453.da9e15af.chunk.js.map": "/Loft/static/js/453.da9e15af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf415e8.css",
+    "static/js/main.d0ecf210.js"
+  ]
+}
